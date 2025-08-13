@@ -1,0 +1,67 @@
+
+🛠 Installation
+Prerequisites
+Python 3.8+
+
+pip installed
+
+OS: Windows / Linux (firewall blocking requires admin/root privileges)
+
+1. Clone Repository
+bash
+Copy
+Edit
+git clone https://github.com/YOURUSERNAME/sci-fi-idps.git
+cd sci-fi-idps
+2. Install Dependencies
+bash
+Copy
+Edit
+pip install -r requirements.txt
+
+
+-------------------------------------------
+
+Option 1 — Run from Command Line
+Open Command Prompt (Windows) or Terminal (Linux/Mac).
+
+Open Command Prompt as Administrator.
+
+Go to your folder
+
+Navigate to the project folder:
+
+bash
+Copy
+Edit
+cd "C:\Users\YOURNAME\path\to\sci-fi-idps"
+Start the program:
+
+bash
+Copy
+Edit
+python IDPS.py
+
+
+------------------------------------------------------------
+
+examples :-
+
+Run it
+Open Command Prompt as Administrator
+
+cd into your folder (quotes for spaces):
+
+bash
+Copy
+Edit
+cd "C:\Users\USER\Desktop\2024 Research\eruwa project 2025\New folder"
+Run:
+
+nginx
+Copy
+Edit
+python idps_gui_sci_fi.py
+
+IDPS.py
+
