@@ -90,14 +90,6 @@ Set IP and number of attempts
 
 Click Simulate
 
-# 📂 Project Structure
-bash
-
-idps_gui_sci_fi.py      # Main application script
-world_map.png           # World map image for visualization
-alarm.wav               # Siren sound for alerts
-requirements.txt        # Python dependencies
-README.md               # This file
 
 👤 About Developer
 Developer: Abdulrahaman Raji
