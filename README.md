@@ -44,13 +44,15 @@ OS: Windows / Linux (firewall blocking requires admin/root privileges)
 
 1. Clone Repository
 bash
-git clone https://github.com/ArcRobot-Researchcenter/Sci-Fi-Intrusion-Detection-Prevention-System-IDPS-
-cd sci-fi-idps
+git clone https://github.com/ArcRobot-Researchcenter/Sci-Fi-Intrusion-Detection-Prevention-System-IDPS
+
+
 2. Install Dependencies
+   
 bash
 pip install -r requirements.txt
 
-3. Run the Program
+4. Run the Program
 bash
 python IDPS.py
 
